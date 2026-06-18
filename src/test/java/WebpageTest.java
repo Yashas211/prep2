@@ -15,7 +15,7 @@ public class WebpageTest {
         driver.manage().window().maximize();
         Thread.sleep(2000);
         driver.get("https://yashas211.github.io/prep2/");
-    }git statu
+    }
 
     @Test
     public void titleValidationTest() {
